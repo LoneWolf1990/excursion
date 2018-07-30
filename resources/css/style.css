@@ -26,6 +26,10 @@ a {
     font-size: 16px;
 }
 
+img {
+    padding: 10px;
+}
+
 #copyright {
     text-align: right;
     color: gray;
